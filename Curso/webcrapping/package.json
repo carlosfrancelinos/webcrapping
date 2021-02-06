@@ -1,0 +1,24 @@
+{
+  "name": "webcrapping",
+  "version": "1.0.0",
+  "description": "Leitor de conte[udo HTML de paginas web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosfrancelinos/webcrapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosfrancelinos/webcrapping/issues"
+  },
+  "homepage": "https://github.com/carlosfrancelinos/webcrapping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
